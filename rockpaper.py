@@ -1,5 +1,5 @@
 import random
-
+#камень ножницы бумага
 choises = ['r', 'p', 's']
 print('r  > s , s > p , p > r ')
 player = input('select: r,p,s  or (quit): ')
